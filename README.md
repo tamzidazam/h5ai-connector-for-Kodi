@@ -1,6 +1,6 @@
 # h5ai Connector for Kodi
 
-*A Kodi Add-On for browsing and playing videos from web server directories.*
+*A Kodi Add-On for browsing and playing videos from web server directories. Created & Managed By Tamzid Azam Priyo* 
 
 ---
 
