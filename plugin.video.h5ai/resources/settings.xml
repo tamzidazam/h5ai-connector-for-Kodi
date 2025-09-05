@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Sources">
+        <setting label="Source 1 Name" id="source_1_name" type="text" default=""/>
+        <setting label="Source 1 URL" id="source_1_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 2 Name" id="source_2_name" type="text" default=""/>
+        <setting label="Source 2 URL" id="source_2_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 3 Name" id="source_3_name" type="text" default=""/>
+        <setting label="Source 3 URL" id="source_3_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 4 Name" id="source_4_name" type="text" default=""/>
+        <setting label="Source 4 URL" id="source_4_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 5 Name" id="source_5_name" type="text" default=""/>
+        <setting label="Source 5 URL" id="source_5_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 6 Name" id="source_6_name" type="text" default=""/>
+        <setting label="Source 6 URL" id="source_6_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 7 Name" id="source_7_name" type="text" default=""/>
+        <setting label="Source 7 URL" id="source_7_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 8 Name" id="source_8_name" type="text" default=""/>
+        <setting label="Source 8 URL" id="source_8_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 9 Name" id="source_9_name" type="text" default=""/>
+        <setting label="Source 9 URL" id="source_9_url" type="text" default=""/>
+        <setting type="sep"/>
+        <setting label="Source 10 Name" id="source_10_name" type="text" default=""/>
+        <setting label="Source 10 URL" id="source_10_url" type="text" default=""/>
+    </category>
+</settings>
+
