@@ -12,7 +12,7 @@
 2. Navigate back to `Settings -> Add-ons` and select **Install from zip file**.
 3. Locate and select the `plugin.video.h5ai.zip` file. 
   
-## Plugin Download link: https://raw.githubusercontent.com/tamzidazam/h5ai-connector-for-Kodi/refs/heads/main/plugin.video.h5ai.zip
+## Plugin Download link: [https://ta471.eu.org/kodi/](https://ta471.eu.org/kodi/)
 
 ### 2. Configure the Sources
 
