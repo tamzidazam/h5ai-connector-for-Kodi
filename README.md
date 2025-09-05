@@ -10,7 +10,9 @@
 
 1. Navigate to `Settings -> System -> Add-ons` and enable **Unknown sources**.
 2. Navigate back to `Settings -> Add-ons` and select **Install from zip file**.
-3. Locate and select the `plugin.video.h5ai.zip` file. The link is: https://raw.githubusercontent.com/tamzidazam/h5ai-connector-for-Kodi/refs/heads/main/plugin.video.h5ai.zip
+3. Locate and select the `plugin.video.h5ai.zip` file. The link is:
+  
+#https://raw.githubusercontent.com/tamzidazam/h5ai-connector-for-Kodi/refs/heads/main/plugin.video.h5ai.zip
 
 ### 2. Configure the Sources
 
